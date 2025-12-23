@@ -1,0 +1,275 @@
+{
+    "cube_distance": {
+        "lesson_num": 4
+    },
+    "DoggyBehavior": {
+        "checkpoints": [
+            {
+                "steps": 49980,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-49980.onnx",
+                "reward": -1.1363707343737284,
+                "creation_time": 1766505728.0877104,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-49980.pt"
+                ]
+            },
+            {
+                "steps": 99969,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-99969.onnx",
+                "reward": 11.2933329641819,
+                "creation_time": 1766506045.045194,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-99969.pt"
+                ]
+            },
+            {
+                "steps": 149977,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-149977.onnx",
+                "reward": 6.8085594566968775,
+                "creation_time": 1766506349.18064,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-149977.pt"
+                ]
+            },
+            {
+                "steps": 199986,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-199986.onnx",
+                "reward": -1.0774134720365207,
+                "creation_time": 1766506647.4549806,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-199986.pt"
+                ]
+            },
+            {
+                "steps": 249965,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-249965.onnx",
+                "reward": -0.8680676062901814,
+                "creation_time": 1766506951.79982,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-249965.pt"
+                ]
+            },
+            {
+                "steps": 299925,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-299925.onnx",
+                "reward": 4.064459138794949,
+                "creation_time": 1766507252.0286644,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-299925.pt"
+                ]
+            },
+            {
+                "steps": 349975,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-349975.onnx",
+                "reward": 11.855278920382261,
+                "creation_time": 1766507544.8503137,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-349975.pt"
+                ]
+            },
+            {
+                "steps": 399964,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-399964.onnx",
+                "reward": 13.434755927750043,
+                "creation_time": 1766507846.8761978,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-399964.pt"
+                ]
+            },
+            {
+                "steps": 449857,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-449857.onnx",
+                "reward": 32.618721379174126,
+                "creation_time": 1766508144.4471617,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-449857.pt"
+                ]
+            },
+            {
+                "steps": 499990,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-499990.onnx",
+                "reward": -1.9399196714162827,
+                "creation_time": 1766508450.5902965,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-499990.pt"
+                ]
+            },
+            {
+                "steps": 549946,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-549946.onnx",
+                "reward": 32.66284958521525,
+                "creation_time": 1766508751.5542464,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-549946.pt"
+                ]
+            },
+            {
+                "steps": 599887,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-599887.onnx",
+                "reward": 50.22012553115686,
+                "creation_time": 1766509042.9562232,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-599887.pt"
+                ]
+            },
+            {
+                "steps": 649982,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-649982.onnx",
+                "reward": 82.78668573498726,
+                "creation_time": 1766509331.7640195,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-649982.pt"
+                ]
+            },
+            {
+                "steps": 699931,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-699931.onnx",
+                "reward": 41.71660135473524,
+                "creation_time": 1766509620.2430925,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-699931.pt"
+                ]
+            },
+            {
+                "steps": 749993,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-749993.onnx",
+                "reward": 100.0065803527832,
+                "creation_time": 1766509911.2104685,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-749993.pt"
+                ]
+            },
+            {
+                "steps": 799808,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-799808.onnx",
+                "reward": 90.64170648022132,
+                "creation_time": 1766510205.5488064,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-799808.pt"
+                ]
+            },
+            {
+                "steps": 849930,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-849930.onnx",
+                "reward": 84.84628752708436,
+                "creation_time": 1766510501.660403,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-849930.pt"
+                ]
+            },
+            {
+                "steps": 899875,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-899875.onnx",
+                "reward": 88.39157775541146,
+                "creation_time": 1766510798.9613504,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-899875.pt"
+                ]
+            },
+            {
+                "steps": 949896,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-949896.onnx",
+                "reward": 82.12917298299296,
+                "creation_time": 1766511094.2024477,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-949896.pt"
+                ]
+            },
+            {
+                "steps": 999955,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-999955.onnx",
+                "reward": 86.13288591236903,
+                "creation_time": 1766511384.8475215,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-999955.pt"
+                ]
+            },
+            {
+                "steps": 1049898,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-1049898.onnx",
+                "reward": 92.49556222558022,
+                "creation_time": 1766511678.921071,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-1049898.pt"
+                ]
+            },
+            {
+                "steps": 1099956,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-1099956.onnx",
+                "reward": 90.48836863835653,
+                "creation_time": 1766511988.9800642,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-1099956.pt"
+                ]
+            },
+            {
+                "steps": 1149907,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-1149907.onnx",
+                "reward": 92.38741144623076,
+                "creation_time": 1766512292.2920873,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-1149907.pt"
+                ]
+            },
+            {
+                "steps": 1199919,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-1199919.onnx",
+                "reward": 95.11572633186977,
+                "creation_time": 1766512589.3752635,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-1199919.pt"
+                ]
+            },
+            {
+                "steps": 1249918,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-1249918.onnx",
+                "reward": 95.68470193999154,
+                "creation_time": 1766512868.8970861,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-1249918.pt"
+                ]
+            },
+            {
+                "steps": 1299919,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-1299919.onnx",
+                "reward": 87.35061187403542,
+                "creation_time": 1766513149.50898,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-1299919.pt"
+                ]
+            },
+            {
+                "steps": 1344266,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-1344266.onnx",
+                "reward": 94.22318937457524,
+                "creation_time": 1766513339.5630574,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-1344266.pt"
+                ]
+            },
+            {
+                "steps": 1346416,
+                "file_path": "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-1346416.onnx",
+                "reward": 92.50768916805585,
+                "creation_time": 1766513493.5007331,
+                "auxillary_file_paths": [
+                    "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-1346416.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1346416,
+            "file_path": "results\\Doggy_Task_Run\\DoggyBehavior.onnx",
+            "reward": 92.50768916805585,
+            "creation_time": 1766513493.5007331,
+            "auxillary_file_paths": [
+                "results\\Doggy_Task_Run\\DoggyBehavior\\DoggyBehavior-1346416.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.1+cpu"
+    }
+}
