@@ -1,0 +1,119 @@
+INFO] Parameter 'cube_distance' is in lesson 'Lesson0' and has value 'Float: value=2.5'.
+[INFO] DoggyBehavior. Step: 15000. Time Elapsed: 92.604 s. Mean Reward: 0.491. Std of Reward: 12.742. Training.
+[INFO] DoggyBehavior. Step: 30000. Time Elapsed: 174.804 s. Mean Reward: 1.285. Std of Reward: 15.521. Training.
+[INFO] DoggyBehavior. Step: 45000. Time Elapsed: 260.690 s. Mean Reward: 1.074. Std of Reward: 14.922. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-49980.onnx
+[INFO] DoggyBehavior. Step: 60000. Time Elapsed: 355.410 s. Mean Reward: 0.638. Std of Reward: 13.479. Training.
+[INFO] DoggyBehavior. Step: 75000. Time Elapsed: 455.251 s. Mean Reward: 2.334. Std of Reward: 18.369. Training.
+[INFO] DoggyBehavior. Step: 90000. Time Elapsed: 547.632 s. Mean Reward: 4.605. Std of Reward: 23.370. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-99969.onnx
+[INFO] DoggyBehavior. Step: 105000. Time Elapsed: 640.219 s. Mean Reward: 3.739. Std of Reward: 21.566. Training.
+[INFO] DoggyBehavior. Step: 120000. Time Elapsed: 732.272 s. Mean Reward: 7.402. Std of Reward: 28.186. Training.
+[INFO] DoggyBehavior. Step: 135000. Time Elapsed: 823.345 s. Mean Reward: 5.575. Std of Reward: 24.967. Training.
+[INFO] DoggyBehavior. Step: 150000. Time Elapsed: 913.907 s. Mean Reward: 9.028. Std of Reward: 30.254. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-149977.onnx
+[INFO] Parameter 'cube_distance' is in lesson 'Lesson1' and has value 'Float: value=3.5'.
+[INFO] DoggyBehavior. Step: 165000. Time Elapsed: 1004.502 s. Mean Reward: 8.441. Std of Reward: 29.535. Training.
+[INFO] DoggyBehavior. Step: 180000. Time Elapsed: 1094.125 s. Mean Reward: 3.157. Std of Reward: 20.549. Training.
+[INFO] DoggyBehavior. Step: 195000. Time Elapsed: 1183.443 s. Mean Reward: 4.611. Std of Reward: 23.166. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-199986.onnx
+[INFO] DoggyBehavior. Step: 210000. Time Elapsed: 1272.141 s. Mean Reward: 1.626. Std of Reward: 16.109. Training.
+[INFO] DoggyBehavior. Step: 225000. Time Elapsed: 1364.199 s. Mean Reward: 3.518. Std of Reward: 20.736. Training.
+[INFO] DoggyBehavior. Step: 240000. Time Elapsed: 1457.034 s. Mean Reward: 5.362. Std of Reward: 24.598. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-249965.onnx
+[INFO] DoggyBehavior. Step: 255000. Time Elapsed: 1546.831 s. Mean Reward: 7.941. Std of Reward: 28.661. Training.
+[INFO] DoggyBehavior. Step: 270000. Time Elapsed: 1637.324 s. Mean Reward: 5.126. Std of Reward: 24.135. Training.
+[INFO] DoggyBehavior. Step: 285000. Time Elapsed: 1727.147 s. Mean Reward: 6.214. Std of Reward: 25.937. Training.
+[INFO] DoggyBehavior. Step: 300000. Time Elapsed: 1816.755 s. Mean Reward: 10.171. Std of Reward: 31.667. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-299925.onnx
+[INFO] DoggyBehavior. Step: 315000. Time Elapsed: 1903.604 s. Mean Reward: 9.723. Std of Reward: 30.866. Training.
+[INFO] Parameter 'cube_distance' is in lesson 'Lesson2' and has value 'Float: value=4.5'.
+[INFO] DoggyBehavior. Step: 330000. Time Elapsed: 1991.649 s. Mean Reward: 14.740. Std of Reward: 36.541. Training.
+[INFO] DoggyBehavior. Step: 345000. Time Elapsed: 2080.610 s. Mean Reward: 7.133. Std of Reward: 27.414. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-349975.onnx
+[INFO] DoggyBehavior. Step: 360000. Time Elapsed: 2168.639 s. Mean Reward: 5.892. Std of Reward: 25.519. Training.
+[INFO] DoggyBehavior. Step: 375000. Time Elapsed: 2256.503 s. Mean Reward: 9.531. Std of Reward: 30.816. Training.
+[INFO] DoggyBehavior. Step: 390000. Time Elapsed: 2350.399 s. Mean Reward: 10.389. Std of Reward: 32.145. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-399964.onnx
+[INFO] DoggyBehavior. Step: 405000. Time Elapsed: 2443.384 s. Mean Reward: 9.292. Std of Reward: 30.497. Training.
+[INFO] DoggyBehavior. Step: 420000. Time Elapsed: 2531.351 s. Mean Reward: 15.455. Std of Reward: 37.124. Training.
+[INFO] DoggyBehavior. Step: 435000. Time Elapsed: 2618.525 s. Mean Reward: 14.063. Std of Reward: 35.805. Training.
+[INFO] DoggyBehavior. Step: 450000. Time Elapsed: 2709.171 s. Mean Reward: 25.765. Std of Reward: 44.368. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-449857.onnx
+[INFO] Parameter 'cube_distance' is in lesson 'Lesson3' and has value 'Float: value=5.5'.
+[INFO] DoggyBehavior. Step: 465000. Time Elapsed: 2800.800 s. Mean Reward: 27.473. Std of Reward: 45.300. Training.
+[INFO] DoggyBehavior. Step: 480000. Time Elapsed: 2890.745 s. Mean Reward: 27.841. Std of Reward: 45.407. Training.
+[INFO] Parameter 'cube_distance' is in lesson 'Lesson4' and has value 'Float: value=10.0'.
+[INFO] DoggyBehavior. Step: 495000. Time Elapsed: 2985.038 s. Mean Reward: 30.707. Std of Reward: 46.864. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-499990.onnx
+[INFO] DoggyBehavior. Step: 510000. Time Elapsed: 3077.185 s. Mean Reward: 14.441. Std of Reward: 36.141. Training.
+[INFO] DoggyBehavior. Step: 525000. Time Elapsed: 3168.160 s. Mean Reward: 16.014. Std of Reward: 37.751. Training.
+[INFO] DoggyBehavior. Step: 540000. Time Elapsed: 3256.834 s. Mean Reward: 29.980. Std of Reward: 46.336. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-549946.onnx
+[INFO] DoggyBehavior. Step: 555000. Time Elapsed: 3345.506 s. Mean Reward: 23.944. Std of Reward: 43.234. Training.
+[INFO] DoggyBehavior. Step: 570000. Time Elapsed: 3434.701 s. Mean Reward: 41.802. Std of Reward: 50.263. Training.
+[INFO] DoggyBehavior. Step: 585000. Time Elapsed: 3520.012 s. Mean Reward: 40.596. Std of Reward: 49.759. Training.
+[INFO] DoggyBehavior. Step: 600000. Time Elapsed: 3607.683 s. Mean Reward: 42.269. Std of Reward: 50.020. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-599887.onnx
+[INFO] DoggyBehavior. Step: 615000. Time Elapsed: 3692.948 s. Mean Reward: 45.446. Std of Reward: 50.370. Training.
+[INFO] DoggyBehavior. Step: 630000. Time Elapsed: 3780.522 s. Mean Reward: 47.210. Std of Reward: 50.136. Training.
+[INFO] DoggyBehavior. Step: 645000. Time Elapsed: 3867.735 s. Mean Reward: 44.076. Std of Reward: 49.865. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-649982.onnx
+[INFO] DoggyBehavior. Step: 660000. Time Elapsed: 3953.979 s. Mean Reward: 51.770. Std of Reward: 50.258. Training.
+[INFO] DoggyBehavior. Step: 675000. Time Elapsed: 4040.910 s. Mean Reward: 52.173. Std of Reward: 49.927. Training.
+[INFO] DoggyBehavior. Step: 690000. Time Elapsed: 4126.854 s. Mean Reward: 53.711. Std of Reward: 50.128. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-699931.onnx
+[INFO] DoggyBehavior. Step: 705000. Time Elapsed: 4214.719 s. Mean Reward: 56.704. Std of Reward: 49.195. Training.
+[INFO] DoggyBehavior. Step: 720000. Time Elapsed: 4301.375 s. Mean Reward: 59.539. Std of Reward: 49.361. Training.
+[INFO] DoggyBehavior. Step: 735000. Time Elapsed: 4387.613 s. Mean Reward: 59.286. Std of Reward: 48.818. Training.
+[INFO] DoggyBehavior. Step: 750000. Time Elapsed: 4475.931 s. Mean Reward: 69.729. Std of Reward: 45.766. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-749993.onnx
+[INFO] DoggyBehavior. Step: 765000. Time Elapsed: 4563.167 s. Mean Reward: 68.593. Std of Reward: 46.154. Training.
+[INFO] DoggyBehavior. Step: 780000. Time Elapsed: 4652.629 s. Mean Reward: 69.263. Std of Reward: 46.352. Training.
+[INFO] DoggyBehavior. Step: 795000. Time Elapsed: 4741.188 s. Mean Reward: 70.569. Std of Reward: 46.129. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-799808.onnx
+[INFO] DoggyBehavior. Step: 810000. Time Elapsed: 4829.098 s. Mean Reward: 79.364. Std of Reward: 40.716. Training.
+[INFO] DoggyBehavior. Step: 825000. Time Elapsed: 4916.813 s. Mean Reward: 81.369. Std of Reward: 38.947. Training.
+[INFO] DoggyBehavior. Step: 840000. Time Elapsed: 5007.797 s. Mean Reward: 78.162. Std of Reward: 42.010. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-849930.onnx
+[INFO] DoggyBehavior. Step: 855000. Time Elapsed: 5097.096 s. Mean Reward: 79.779. Std of Reward: 41.122. Training.
+[INFO] DoggyBehavior. Step: 870000. Time Elapsed: 5185.095 s. Mean Reward: 87.040. Std of Reward: 34.488. Training.
+[INFO] DoggyBehavior. Step: 885000. Time Elapsed: 5276.608 s. Mean Reward: 90.117. Std of Reward: 31.229. Training.
+[INFO] DoggyBehavior. Step: 900000. Time Elapsed: 5363.682 s. Mean Reward: 86.140. Std of Reward: 36.116. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-899875.onnx
+[INFO] DoggyBehavior. Step: 915000. Time Elapsed: 5453.536 s. Mean Reward: 75.187. Std of Reward: 44.303. Training.
+[INFO] DoggyBehavior. Step: 930000. Time Elapsed: 5542.918 s. Mean Reward: 91.222. Std of Reward: 29.661. Training.
+[INFO] DoggyBehavior. Step: 945000. Time Elapsed: 5629.042 s. Mean Reward: 81.601. Std of Reward: 39.787. Training.
+[INFO] DoggyBehavior. Step: 960000. Time Elapsed: 5719.730 s. Mean Reward: 80.565. Std of Reward: 40.758. Training.
+[INFO] DoggyBehavior. Step: 975000. Time Elapsed: 5809.033 s. Mean Reward: 89.042. Std of Reward: 32.938. Training.
+[INFO] DoggyBehavior. Step: 990000. Time Elapsed: 5895.405 s. Mean Reward: 88.273. Std of Reward: 33.959. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-999955.onnx
+[INFO] DoggyBehavior. Step: 1005000. Time Elapsed: 5978.620 s. Mean Reward: 85.107. Std of Reward: 37.100. Training.
+[INFO] DoggyBehavior. Step: 1020000. Time Elapsed: 6067.421 s. Mean Reward: 83.973. Std of Reward: 38.046. Training.
+[INFO] DoggyBehavior. Step: 1035000. Time Elapsed: 6155.647 s. Mean Reward: 81.013. Std of Reward: 40.210. Training.
+[INFO] DoggyBehavior. Step: 1050000. Time Elapsed: 6243.648 s. Mean Reward: 91.347. Std of Reward: 28.861. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-1049898.onnx
+[INFO] DoggyBehavior. Step: 1065000. Time Elapsed: 6338.416 s. Mean Reward: 89.571. Std of Reward: 31.412. Training.
+[INFO] DoggyBehavior. Step: 1080000. Time Elapsed: 6433.468 s. Mean Reward: 88.539. Std of Reward: 32.857. Training.
+[INFO] DoggyBehavior. Step: 1095000. Time Elapsed: 6523.837 s. Mean Reward: 94.596. Std of Reward: 24.236. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-1099956.onnx
+[INFO] DoggyBehavior. Step: 1110000. Time Elapsed: 6614.761 s. Mean Reward: 88.843. Std of Reward: 32.542. Training.
+[INFO] DoggyBehavior. Step: 1125000. Time Elapsed: 6702.873 s. Mean Reward: 91.196. Std of Reward: 29.628. Training.
+[INFO] DoggyBehavior. Step: 1140000. Time Elapsed: 6796.873 s. Mean Reward: 89.087. Std of Reward: 33.075. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-1149907.onnx
+[INFO] DoggyBehavior. Step: 1155000. Time Elapsed: 6887.311 s. Mean Reward: 94.847. Std of Reward: 24.733. Training.
+[INFO] DoggyBehavior. Step: 1170000. Time Elapsed: 6974.222 s. Mean Reward: 90.098. Std of Reward: 30.751. Training.
+[INFO] DoggyBehavior. Step: 1185000. Time Elapsed: 7064.921 s. Mean Reward: 92.315. Std of Reward: 28.437. Training.
+[INFO] DoggyBehavior. Step: 1200000. Time Elapsed: 7154.101 s. Mean Reward: 93.227. Std of Reward: 27.497. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-1199919.onnx
+[INFO] DoggyBehavior. Step: 1215000. Time Elapsed: 7233.805 s. Mean Reward: 90.258. Std of Reward: 31.802. Training.
+[INFO] DoggyBehavior. Step: 1230000. Time Elapsed: 7324.910 s. Mean Reward: 90.949. Std of Reward: 31.449. Training.
+[INFO] DoggyBehavior. Step: 1245000. Time Elapsed: 7412.773 s. Mean Reward: 93.217. Std of Reward: 27.941. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-1249918.onnx
+[INFO] DoggyBehavior. Step: 1260000. Time Elapsed: 7490.449 s. Mean Reward: 93.929. Std of Reward: 25.885. Training.
+[INFO] DoggyBehavior. Step: 1275000. Time Elapsed: 7574.693 s. Mean Reward: 89.966. Std of Reward: 31.641. Training.
+[INFO] DoggyBehavior. Step: 1290000. Time Elapsed: 7662.434 s. Mean Reward: 90.244. Std of Reward: 31.739. Training.
+[INFO] Exported results\Doggy_Task_Run\DoggyBehavior\DoggyBehavior-1299919.onnx
+[INFO] DoggyBehavior. Step: 1305000. Time Elapsed: 7736.110 s. Mean Reward: 86.380. Std of Reward: 35.896. Training.
+[INFO] DoggyBehavior. Step: 1320000. Time Elapsed: 7800.421 s. Mean Reward: 92.232. Std of Reward: 28.817. Training.
+[INFO] DoggyBehavior. Step: 1335000. Time Elapsed: 7865.262 s. Mean Reward: 96.025. Std of Reward: 22.557. Training.
